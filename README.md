@@ -61,9 +61,11 @@ This layout forms a crucial part of a weather-related application's user interfa
 https://advtechonline-my.sharepoint.com/:w:/g/personal/st10447256_rcconnect_edu_za/EfBt7WnHyetFhaHWPMaaj44BuQP2g-obDiPh1lA4iZWDHQ?e=yPgDyi
 
 **Screenshots of each screen and error message**
+![Capture](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/6458291b-8abc-45ce-99d9-5e24ab0ff713)
 ![MainActivity kt](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/c619bd44-67dd-484f-bd9e-73a5f9616777)
 ![MainScreen kt](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/2bcec032-7df7-4f23-b8d8-987f0504af24)
 ![detailedViewScreen kt](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/a4c88f72-b7d0-465e-8b3a-5d260b06fc96)
 ![ActicityMainXml](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/5f9af08e-72bc-4dbd-be5e-ca66e7cf4540)
 ![ActivityMainScreen](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/b9d16d66-ab26-4c2c-a5db-6c028eabdb41)
 ![DetailedViewScreen](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/f3e8dd43-0924-4a11-a106-f6b007139336)
+![l](https://github.com/LesediPhalatse/IMAD5112Practicum-Exam-/assets/166136978/0168c1f2-d66a-40df-8ced-60cb3ea50a7f)
